@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.LoginForm.resources
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.Properties.Resources.resources
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\bin\Debug\AzerbaijanStore.exe.config
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\bin\Debug\AzerbaijanStore.exe
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\bin\Debug\AzerbaijanStore.pdb
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\bin\Debug\MyControls.dll
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\bin\Debug\MyControls.pdb
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.csproj.CopyComplete
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.exe
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.pdb
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.MyForms.Register.resources
