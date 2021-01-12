@@ -96,7 +96,7 @@
             this.lbl_PasswordAgain.TabIndex = 12;
             this.lbl_PasswordAgain.Text = "Confirm Password";
             this.lbl_PasswordAgain.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lbl_PasswordAgain.Click += new System.EventHandler(this.label2_Click);
+          
             // 
             // lbl_RegisterPassword
             // 
@@ -166,6 +166,7 @@
             this.btn_RegisterInRegister.TabIndex = 0;
             this.btn_RegisterInRegister.Text = "Register";
             this.btn_RegisterInRegister.UseVisualStyleBackColor = false;
+            
             // 
             // RegisterControl
             // 

@@ -11,12 +11,17 @@ using System.Windows.Forms;
 
 namespace AzerbaijanStore.MyForms
 {
-    public partial class Register : Form
+    public partial class RegisterForm : Form
     {
-        public Register()
+        public RegisterForm()
         {
             InitializeComponent();
             this.registerControl1.btn_RegisterInRegister.Click += Btn_RegisterInRegister_Click;
+        }
+        private Form _LoginForm;
+        public RegisterForm(Form form) : this()
+        {
+            _LoginForm = form;
         }
 
         private void Btn_RegisterInRegister_Click(object sender, EventArgs e)
@@ -50,6 +55,8 @@ namespace AzerbaijanStore.MyForms
             {
                 MessageBox.Show("Failed");
             }
+            _LoginForm.Show();
+            this.Close();
         }
 
         private void registerControl1_Load(object sender, EventArgs e)

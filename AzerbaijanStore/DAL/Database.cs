@@ -11,6 +11,21 @@ namespace AzerbaijanStore.Models
 
         private static List<User> _users;
 
+        public bool IfUserExist(string workid, string password)
+        {
+            
+            bool result = false;
+            foreach(User user in _users)
+            {
+                if (user.WorkID.ToLower() == workid.ToLower() && user.Password == password)
+                {
+                    result = true;
+                }
+            }
+            return result;
+
+        } 
+
         public Database()
         {
             if (_users == null)

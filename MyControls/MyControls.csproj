@@ -44,16 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="Controls\RegisterControl.cs">
+    <Compile Include="MyControls\RegisterControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Controls\RegisterControl.Designer.cs">
+    <Compile Include="MyControls\RegisterControl.Designer.cs">
       <DependentUpon>RegisterControl.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Controls\RegisterControl.resx">
+    <EmbeddedResource Include="MyControls\RegisterControl.resx">
       <DependentUpon>RegisterControl.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>

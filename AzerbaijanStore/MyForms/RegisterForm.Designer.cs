@@ -1,6 +1,6 @@
 ﻿namespace AzerbaijanStore.MyForms
 {
-    partial class Register
+    partial class RegisterForm
     {
         /// <summary>
         /// Required designer variable.

@@ -49,26 +49,39 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAL\Database.cs" />
+    <Compile Include="DAL\DatabaseSecond.cs" />
+    <Compile Include="DAL\EntitiyModel.cs" />
+    <Compile Include="Models\Entity.cs" />
+    <Compile Include="Models\Fruit.cs" />
     <Compile Include="Models\User.cs" />
-    <Compile Include="MyForms\Login.cs">
+    <Compile Include="MyForms\FruitForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MyForms\Login.Designer.cs">
-      <DependentUpon>Login.cs</DependentUpon>
+    <Compile Include="MyForms\FruitForm.Designer.cs">
+      <DependentUpon>FruitForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="MyForms\Register.cs">
+    <Compile Include="MyForms\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MyForms\Register.Designer.cs">
-      <DependentUpon>Register.cs</DependentUpon>
+    <Compile Include="MyForms\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyForms\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyForms\RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="MyForms\Login.resx">
-      <DependentUpon>Login.cs</DependentUpon>
+    <EmbeddedResource Include="MyForms\FruitForm.resx">
+      <DependentUpon>FruitForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MyForms\Register.resx">
-      <DependentUpon>Register.cs</DependentUpon>
+    <EmbeddedResource Include="MyForms\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForms\RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -97,6 +110,9 @@
       <Project>{ba5c1e29-4e4e-4f8f-968f-750a9cc21318}</Project>
       <Name>MyControls</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

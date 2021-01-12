@@ -5,3 +5,4 @@ C:\Users\User\source\repos\AzerbaijanStore\MyControls\obj\Debug\MyControls.cspro
 C:\Users\User\source\repos\AzerbaijanStore\MyControls\obj\Debug\MyControls.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\AzerbaijanStore\MyControls\obj\Debug\MyControls.dll
 C:\Users\User\source\repos\AzerbaijanStore\MyControls\obj\Debug\MyControls.pdb
+C:\Users\User\source\repos\AzerbaijanStore\MyControls\obj\Debug\MyControls.csprojAssemblyReference.cache

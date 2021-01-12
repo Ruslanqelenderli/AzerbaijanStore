@@ -11,4 +11,5 @@ C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\bin\Debug\MyControls.
 C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.csproj.CopyComplete
 C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.exe
 C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.pdb
-C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.MyForms.Register.resources
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.MyForms.FruitForm.resources
+C:\Users\User\source\repos\AzerbaijanStore\AzerbaijanStore\obj\Debug\AzerbaijanStore.MyForms.RegisterForm.resources

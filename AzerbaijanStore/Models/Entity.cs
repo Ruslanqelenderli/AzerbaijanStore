@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace AzerbaijanStore.Models
 {
-    public class User:Entity
+    public class Entity
     {
+        public string Name { get; set; }
         
-        public string  Surname  { get; set; }
-        public string WorkID { get; set; }
-        public string Password { get; set; }
         
     }
 }
